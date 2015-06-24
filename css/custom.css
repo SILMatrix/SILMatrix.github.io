@@ -1,48 +1,48 @@
-.table>tbody>tr>th.greycolomn {
+.table>tbody>tr>th.cellgrey {
 background-color: #c0c0c0;
 color: #000000;
 }
-.table>tbody>tr>td.greycolomn {
+.table>tbody>tr>td.cellgrey {
 background-color: #c0c0c0;
 color: #000000;
 }
-.table>thead>tr>td.greycolomn {
+.table>thead>tr>td.cellgrey {
 background-color: #c0c0c0;
 color: #000000;
 }
-.table>tbody>tr>td.darkgrey {
+.table>tbody>tr>td.celldarkgrey {
 background-color: #656565;
 color: #ffffff;	
 }
-.table>tbody>tr>td.litegrey {
+.table>tbody>tr>td.celllitegrey {
 background-color: #D3D3D3;
 color: #000000;	
 }
-.table>tbody>tr>td.purpur {
+.table>tbody>tr>td.cellpurpur {
 background-color: #d88ad5;
 color: #000000;	
 }
-.table>tbody>tr>td.red {
+.table>tbody>tr>td.cellred {
 background-color: #fd6864;
 color: #000000;	
 } 
-.table>tbody>tr>td.yellow {
+.table>tbody>tr>td.cellyellow {
 background-color: #ffd43c;
 color: #000000;	
 }
-.table>tbody>tr>td.liteyellow {
+.table>tbody>tr>td.cellliteyellow {
 background-color: #fffe65;
 color: #000000;	
 } 
-.table>tbody>tr>td.green {
+.table>tbody>tr>td.cellgreen {
 background-color: #9aff99;
 color: #000000;	
 } 
-.table>tbody>tr>td.liteblue {
+.table>tbody>tr>td.cellliteblue {
 background-color: #96fffb;
 color: #000000;	
 } 
-.table>tbody>tr>td.blue {
+.table>tbody>tr>td.cellblue {
 background-color: #84a2fb;
 color: #000000;	
 } 
