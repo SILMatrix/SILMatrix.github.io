@@ -1,7 +1,7 @@
 {
   "vars": {
-    "@font-family-sans-serif": "Veranda, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
-    "@font-family-serif": "Veranda, Georgia, \"Times New Roman\", Times, serif",
+    "@font-family-sans-serif": "Verdana, Helvetica, Arial, sans-serif",
+    "@font-family-serif": "Verdana, Georgia, \"Times New Roman\", Times, serif",
     "@font-size-base": "12px"
   },
   "css": [
@@ -12,5 +12,5 @@
     "list-group.less"
   ],
   "js": [],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=3570d1de44b0957f1e33"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=b9bc845bf44bf7b6f9d7"
 }
